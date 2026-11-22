@@ -6,4 +6,4 @@ The purpose of my website is to help people identify and learn about different k
 
 ## Link to Website
 
-[Bird Discovery Journal — GitHub Pages](https://lzurch3r.github.io/wdd130-lopez/)
+[Bird Discovery Journal — GitHub Pages]{:target="_blank"}(https://lzurch3r.github.io/wdd130-lopez/)
